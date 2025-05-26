@@ -1,15 +1,14 @@
-#
+Emotion Detection Using Text Analysis
 
-## Team Members:
-1. [TEAM_MEMBER_1_NAME]
-2. [TEAM_MEMBER_2_NAME]
-3. [TEAM_MEMBER_3_NAME]
-4. [TEAM_MEMBER_4_NAME]
+Team Members:
+1. Dushyant Sehgal
+2. Abdul Samad
+3. Ayush Singh
 
-## Steps for Execution:
-1. [STEP 1]
-2. [STEP 2]
-   (Add more steps as needed)
+Steps for Execution:
+1. run on streamlit
+2. streamlit run app.py
+   
 
 ## Checklist:
 1. Final Project Report
