@@ -1,4 +1,4 @@
-# Title of Project: [PROJECT_TITLE_HERE]
+#
 
 ## Team Members:
 1. [TEAM_MEMBER_1_NAME]
